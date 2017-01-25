@@ -6,6 +6,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
   * [Documentation](#documentation)
   * [Emulators](#emulators)
   * [Frameworks](#frameworks)
+  * [Platforms](#platforms)
   * [Vendors](#vendors)
 * [Worth Reading](#worth-reading)
 * [Contributing](#contributing)
@@ -21,6 +22,12 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 
 ## Frameworks
 
+## Platforms
+
+* [Android TV](https://www.android.com/tv/) - Android TV Platform.
+* [Firefox OS](https://www.mozilla.org/en-US/firefox/os/devices/tv/) - Forefox OS TV Platform.
+* [Tizen](https://developer.tizen.org/tizen/tv) - Samsung Tizen TV Platform.
+* [WebOS](http://www.lg.com/uk/smarttv/index.html) - LG WebOS Platform.
 
 ## Vendors
 
