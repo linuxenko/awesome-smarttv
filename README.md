@@ -29,7 +29,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
   * F-series (year 2013)
   * H-series (year 2014)
 * [LG webOS Smart TV](http://www.lg.com/uk/smarttv/index.html) - LG WebOS Platform.
-* LG NetCast Smart TV
+* [LG NetCast Smart TV](http://webostv.developer.lge.com/discover/netcast/overview/) - LG Netcast Platform.
   * 2010
   * 2011
   * 2012
@@ -37,7 +37,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
   * 2014
 * Dune HD STB
   * SMP8670 chipset: TV-101, TV-102p, TV-201, TV-301.
-  * SMP8674 chipset: TV-102 (+), TV-202, Connect.
+  * SMP8674 chipset: TV-102, TV-202, Connect.
   * SMP8672 chipset: TV-303D, Base 3D.
 * Eltex STB
   * NV-102
@@ -56,6 +56,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
   * S-213
 * [Android TV](https://www.android.com/tv/) - Android TV Platform.
 * [Firefox OS](https://www.mozilla.org/en-US/firefox/os/devices/tv/) - Forefox OS TV Platform.
+* [Opera TV](http://www.operasoftware.com/opera-tv) - Opera TV Platform.
 
 ## Vendors
 
