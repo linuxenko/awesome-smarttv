@@ -13,6 +13,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 ----
 
 ## Documentation
+* [Android TV](https://developer.android.com/training/tv/index.html) - Android TV application development documentation.
 * [LG Help Center](http://developer.lgappstv.com/TV_HELP/index.jsp) - LG Smart TV application development documentation.
 * [Samsung Tizen](http://developer.samsung.com/tv/develop) - Tizen development center.
 
