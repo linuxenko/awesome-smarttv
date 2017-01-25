@@ -7,7 +7,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
   * [Emulators](#emulators)
   * [Frameworks](#frameworks)
   * [Platforms](#platforms)
-  * [Vendors](#vendors)
+  * [Code](#code)
 * [Worth Reading](#worth-reading)
 * [Contributing](#contributing)
   
@@ -15,7 +15,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 
 ## Documentation
 * [LG Help Center](http://developer.lgappstv.com/TV_HELP/index.jsp) - LG Smart TV application development documentation.
-* [Remote Control Navigation](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/TV_remote_control_navigation) - Implementing TV remote control navigation (MDN)
+* [Samsung Tizen](http://developer.samsung.com/tv/develop) - Tizen development center.
 
 ## Emulators
 * LG Netcast 
@@ -61,9 +61,10 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 * [Firefox OS](https://www.mozilla.org/en-US/firefox/os/devices/tv/) - Forefox OS TV Platform.
 * [Opera TV](http://www.operasoftware.com/opera-tv) - Opera TV Platform.
 
-## Vendors
+## Code
 
 ## Worth Reading
+* [Remote Control Navigation](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/TV_remote_control_navigation) - Implementing TV remote control navigation (MDN)
 
 ## Contributing
 
