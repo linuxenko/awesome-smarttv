@@ -54,7 +54,6 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
   * S-310
   * S-300
   * S-213
-
 * [Android TV](https://www.android.com/tv/) - Android TV Platform.
 * [Firefox OS](https://www.mozilla.org/en-US/firefox/os/devices/tv/) - Forefox OS TV Platform.
 
