@@ -7,7 +7,6 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
   * [Emulators](#emulators)
   * [Frameworks](#frameworks)
   * [Platforms](#platforms)
-  * [Code](#code)
 * [Worth Reading](#worth-reading)
 * [Contributing](#contributing)
   
@@ -60,8 +59,6 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 * [Android TV](https://www.android.com/tv/) - Android TV Platform.
 * [Firefox OS](https://www.mozilla.org/en-US/firefox/os/devices/tv/) - Forefox OS TV Platform.
 * [Opera TV](http://www.operasoftware.com/opera-tv) - Opera TV Platform.
-
-## Code
 
 ## Worth Reading
 * [Remote Control Navigation](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/TV_remote_control_navigation) - Implementing TV remote control navigation (MDN)
