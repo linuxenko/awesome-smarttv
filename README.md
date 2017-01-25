@@ -7,6 +7,8 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
   * [Emulators](#emulators)
   * [Frameworks](#frameworks)
   * [Vendors](#vendors)
+* [Worth Reading](#worth-reading)
+* [Contributing](#contributing)
   
 ----
 
@@ -21,3 +23,13 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 
 
 ## Vendors
+
+## Worth Reading
+
+## Contributing
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
