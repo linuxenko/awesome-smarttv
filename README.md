@@ -24,10 +24,39 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 
 ## Platforms
 
+* [Samsung Smart TV](https://developer.tizen.org/tizen/tv) - Samsung Tizen TV Platform.
+  * E-series (year 2012)
+  * F-series (year 2013)
+  * H-series (year 2014)
+* [LG webOS Smart TV](http://www.lg.com/uk/smarttv/index.html) - LG WebOS Platform.
+* LG NetCast Smart TV
+  * 2010
+  * 2011
+  * 2012
+  * 2013
+  * 2014
+* Dune HD STB
+  * SMP8670 chipset: TV-101, TV-102p, TV-201, TV-301.
+  * SMP8674 chipset: TV-102 (+), TV-202, Connect.
+  * SMP8672 chipset: TV-303D, Base 3D.
+* Eltex STB
+  * NV-102
+  * NV-300
+* Mag STB (Aura STB)
+  * Mag250
+  * MAG254/255
+  * MAG270/275
+  * AuraHD
+  * AuraHD Plus
+  * AuraHD Plus WiFi
+* TVIP STB
+  * S-400
+  * S-310
+  * S-300
+  * S-213
+
 * [Android TV](https://www.android.com/tv/) - Android TV Platform.
 * [Firefox OS](https://www.mozilla.org/en-US/firefox/os/devices/tv/) - Forefox OS TV Platform.
-* [Tizen](https://developer.tizen.org/tizen/tv) - Samsung Tizen TV Platform.
-* [WebOS](http://www.lg.com/uk/smarttv/index.html) - LG WebOS Platform.
 
 ## Vendors
 
