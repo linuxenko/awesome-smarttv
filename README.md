@@ -19,11 +19,12 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 * [Samsung Tizen](http://developer.samsung.com/tv/develop) - Tizen development center.
 
 ## Emulators
+* [Android Studio](https://developer.android.com/studio/index.html)
 * LG Netcast 
   * [NetCast SDK v2.4.0 (2012)](http://webostv.developer.lge.com/discover/netcast/sdk/netcast-sdk-v240/)
   * [NetCast SDK v3.0.1 (2013)](http://webostv.developer.lge.com/discover/netcast/sdk/netcast-sdk-v301/)
 * [LG WebOS SDK](http://webostv.developer.lge.com/sdk/download/download-sdk/)
-* [Tizen studio](http://developer.samsung.com/tv/develop/tools/tizen-studio)
+* [Tizen Studio](http://developer.samsung.com/tv/develop/tools/tizen-studio)
 
 ## Frameworks
 * [Enyo Javascript Framework](https://github.com/enyojs) - General purpose framework used by LG.
