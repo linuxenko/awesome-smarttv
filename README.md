@@ -2,11 +2,12 @@
 
 A curated list of smart :tv: frameworks, libraries, software and resources.
 
-* [Awesome Smart TV](#awesome-smarttv)
+* [Awesome Smart TV](#awesome-smart-tv)
   * [Documentation](#documentation)
   * [Emulators](#emulators)
   * [Frameworks](#frameworks)
   * [Platforms](#platforms)
+  * [Source Code](#source-code)
 * [Worth Reading](#worth-reading)
 * [Contributing](#contributing)
   
@@ -24,6 +25,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 * [LG WebOS SDK](http://webostv.developer.lge.com/sdk/download/download-sdk/)
 
 ## Frameworks
+* [Enyo Javascript Framework](https://github.com/enyojs) - General purpose framework used by LG.
 
 ## Platforms
 
@@ -60,6 +62,9 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 * [Android TV](https://www.android.com/tv/) - Android TV Platform.
 * [Firefox OS](https://www.mozilla.org/en-US/firefox/os/devices/tv/) - Forefox OS TV Platform.
 * [Opera TV](http://www.operasoftware.com/opera-tv) - Opera TV Platform.
+
+## Source Code
+* [Gridy.js](https://github.com/ialpert/gridy.js) - library for grids and coursels.
 
 ## Worth Reading
 * [Remote Control Navigation](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/TV_remote_control_navigation) - Implementing TV remote control navigation (MDN)
