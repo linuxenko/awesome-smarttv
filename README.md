@@ -29,6 +29,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 
 ## Frameworks
 * [Enyo Javascript Framework](https://github.com/enyojs) - General purpose framework used by LG.
+* [Zombie Box](http://zombiebox.tv/) - JavaScript-framework for cross-plaform Smart TV and STB apps development.
 
 ## Platforms
 
@@ -70,10 +71,10 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 * [Gridy.js](https://github.com/ialpert/gridy.js) - library for grids and coursels.
 
 ## Deployment and testing
-* [LG Smart TV App Test](http://developer.lge.com/apptest/retrieveApptestOSList.dev) - LG application packaging for testing on real tv (registration required)
+* [LG Smart TV App Test](http://developer.lge.com/apptest/retrieveApptestOSList.dev) - LG application packaging for testing on real tv (registration required).
 
 ## Worth Reading
-* [Remote Control Navigation](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/TV_remote_control_navigation) - Implementing TV remote control navigation (MDN)
+* [Remote Control Navigation](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/TV_remote_control_navigation) - Implementing TV remote control navigation (MDN).
 
 ## Contributing
 
