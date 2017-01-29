@@ -7,7 +7,8 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
   * [Emulators](#emulators)
   * [Frameworks](#frameworks)
   * [Platforms](#platforms)
-  * [Source Code](#source-code)
+* [Source Code](#source-code)
+  * [Deployment and Testing](#deployment-and-testing)
 * [Worth Reading](#worth-reading)
 * [Contributing](#contributing)
   
@@ -67,6 +68,9 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 
 ## Source Code
 * [Gridy.js](https://github.com/ialpert/gridy.js) - library for grids and coursels.
+
+## Deployment and testing
+* [LG Smart TV App Test](http://developer.lge.com/apptest/retrieveApptestOSList.dev) - LG application packaging for testing on real tv (registration required)
 
 ## Worth Reading
 * [Remote Control Navigation](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/TV_remote_control_navigation) - Implementing TV remote control navigation (MDN)
