@@ -69,6 +69,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 
 ## Source Code
 * [Gridy.js](https://github.com/ialpert/gridy.js) - library for grids and coursels.
+* [SmartLS](https://github.com/artempoletsky/Smart-LS) - Polyfill for localStorage in Smart TV.
 
 ## Deployment and testing
 * [LG Smart TV App Test](http://developer.lge.com/apptest/retrieveApptestOSList.dev) - LG application packaging for testing on real tv (registration required).
