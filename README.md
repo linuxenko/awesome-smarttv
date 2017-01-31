@@ -18,7 +18,6 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 * [Android TV](https://developer.android.com/training/tv/index.html) - Android TV application development documentation.
 * [LG Help Center](http://developer.lgappstv.com/TV_HELP/index.jsp) - LG Smart TV application development documentation.
 * [Samsung Tizen](http://developer.samsung.com/tv/develop) - Tizen development center.
-* [Smaf Documentation](http://docs.smaf.tv/) - Samf documentation with lots of general SmartTV apps development topics.
 
 ## Emulators
 * [Android Studio](https://developer.android.com/studio/index.html)
@@ -80,6 +79,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 
 ## Worth Reading
 * [Remote Control Navigation](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/TV_remote_control_navigation) - Implementing TV remote control navigation (MDN).
+* [Smaf Documentation](http://docs.smaf.tv/) - Samf documentation with lots of general SmartTV apps development topics.
 
 ## Contributing
 
