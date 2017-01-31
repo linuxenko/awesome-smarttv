@@ -69,7 +69,9 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 * [Opera TV](http://www.operasoftware.com/opera-tv) - Opera TV Platform.
 
 ## Source Code
-* [Gridy.js](https://github.com/ialpert/gridy.js) - library for grids and coursels.
+* [Gaia mozilla-b2g](https://github.com/mozilla-b2g/gaia) - Mozilla's gaia source code.
+* [Gridy.js](https://github.com/ialpert/gridy.js) - Library for grids and coursels.
+* [Scroll-into-view](https://github.com/KoryNunn/scroll-into-view) - Scrolling with positioning inside of a parent node.
 * [SmartLS](https://github.com/artempoletsky/Smart-LS) - Polyfill for localStorage in Smart TV.
 
 ## Deployment and testing
