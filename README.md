@@ -56,9 +56,10 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
   * Mag250
   * MAG254/255
   * MAG270/275
-  * AuraHD
-  * AuraHD Plus
-  * AuraHD Plus WiFi
+  * [AuraHD](http://www.aurahd.tv/ru/pages/products/aurahd/)
+  * [AuraHD Plus](http://www.aurahd.tv/ru/pages/products/aurahdplus/)
+  * [AuraHD Plus T2](http://www.aurahd.tv/ru/pages/products/aurahdplus-t2/)
+  * [AuraHD Plus WiFi](http://www.aurahd.tv/ru/pages/products/aurahdplus/#aurahdplus_wifi)
 * TVIP STB
   * S-400
   * S-310
