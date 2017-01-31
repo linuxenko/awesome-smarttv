@@ -45,7 +45,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
   * 2012
   * 2013
   * 2014
-* Dune HD STB
+* [Dune HD STB](https://dune-hd.com/eng/products/full_hd_media_players)
   * SMP8670 chipset: TV-101, TV-102p, TV-201, TV-301.
   * SMP8674 chipset: TV-102, TV-202, Connect.
   * SMP8672 chipset: TV-303D, Base 3D.
