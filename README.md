@@ -71,6 +71,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 ## Source Code
 * [Gaia mozilla-b2g](https://github.com/mozilla-b2g/gaia) - Mozilla's gaia source code.
 * [Gridy.js](https://github.com/ialpert/gridy.js) - Library for grids and coursels.
+* [Move-into-view](https://github.com/linuxenko/move-into-view) - Better scrolling made for support css animation.
 * [Scroll-into-view](https://github.com/KoryNunn/scroll-into-view) - Scrolling with positioning inside of a parent node.
 * [SmartLS](https://github.com/artempoletsky/Smart-LS) - Polyfill for localStorage in Smart TV.
 
