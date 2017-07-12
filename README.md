@@ -10,6 +10,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 * [Source Code](#source-code)
   * [Deployment and Testing](#deployment-and-testing)
 * [Worth Reading](#worth-reading)
+* [Videos](#videos)
 * [Contributing](#contributing)
   
 ----
@@ -81,6 +82,14 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 ## Worth Reading
 * [Remote Control Navigation](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/TV_remote_control_navigation) - Implementing TV remote control navigation (MDN).
 * [Smaf Documentation](http://docs.smaf.tv/) - Samf documentation with lots of general SmartTV apps development topics.
+
+## Videos
+ * [Webkit in your living room](https://www.youtube.com/watch?v=xuMWhto62Eo)
+ * [Webkit in your living room 2](https://www.youtube.com/watch?v=Lpwl3qNzAY4)
+ * [React for TV UIs](https://www.youtube.com/watch?v=5sETJs2_jwo)
+ * [Denis Radin: React WebGL in Liberty Global](https://www.youtube.com/watch?v=2E7JYEOqAyw)
+ * [Beyond the DOM: How Netflix plans to enhance your television experience](https://www.youtube.com/watch?v=eNC0mRYGWgc)
+ * [SDC 2016 Session: The Future of Prototyping in Graphics-Rich Connected Environments](https://www.youtube.com/watch?v=L-apMRjlBOM)
 
 ## Contributing
 
