@@ -30,6 +30,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 
 ## Frameworks
 * [Enyo Javascript Framework](https://github.com/enyojs) - General purpose framework used by LG.
+* [TV Application Layer](https://github.com/bbc/tal) - Open source library for building applications for Connected TV devices.
 * [Zombie Box](http://zombiebox.tv/) - JavaScript-framework for cross-plaform Smart TV and STB apps development.
 
 ## Platforms
