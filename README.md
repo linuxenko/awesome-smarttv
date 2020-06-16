@@ -76,6 +76,10 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 * [Move-into-view](https://github.com/linuxenko/move-into-view) - Better scrolling made for support css animation.
 * [Scroll-into-view](https://github.com/KoryNunn/scroll-into-view) - Scrolling with positioning inside of a parent node.
 * [SmartLS](https://github.com/artempoletsky/Smart-LS) - Polyfill for localStorage in Smart TV.
+* [js-spatial-navigation](https://github.com/luke-chang/js-spatial-navigation) - A javascript-based implementation of Spatial Navigation.
+* [react-js-spatial-navigation](https://github.com/dead/react-js-spatial-navigation) - A wrapper of js-spatial-navigation to react components.
+* [react-key-navigation](https://github.com/dead/react-key-navigation) - Spatial Navigation components for React. Similar to the ["Focus Management"](http://bbc.github.io/tal/widgets/focus-management.html) of the [BBC TAL](https://bbc.github.io/tal/).
+* [react-spatial-navigation](https://github.com/NoriginMedia/react-spatial-navigation) - HOC-based Spatial Navigation (key navigation) solution for React.
 
 ## Deployment and testing
 * [LG Smart TV App Test](http://developer.lge.com/apptest/retrieveApptestOSList.dev) - LG application packaging for testing on real tv (registration required).
@@ -83,6 +87,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 ## Worth Reading
 * [Remote Control Navigation](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/TV_remote_control_navigation) - Implementing TV remote control navigation (MDN).
 * [Smaf Documentation](http://docs.smaf.tv/) - Samf documentation with lots of general SmartTV apps development topics.
+* [Awesome Smart TV Documentation](https://github.com/vitalets/awesome-smart-tv) - Another curated list of awesome resources for building Smart TV apps.
 
 ## Videos
  * [Webkit in your living room](https://www.youtube.com/watch?v=xuMWhto62Eo)
