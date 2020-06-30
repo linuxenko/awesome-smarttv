@@ -79,6 +79,7 @@ A curated list of smart :tv: frameworks, libraries, software and resources.
 
 ## Deployment and testing
 * [LG Smart TV App Test](http://developer.lge.com/apptest/retrieveApptestOSList.dev) - LG application packaging for testing on real tv (registration required).
+* [Suitest](https://suite.st) - Test automation solution for Smart TVs, gaming consoles, streaming sticks etc.
 
 ## Worth Reading
 * [Remote Control Navigation](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS_for_TV/TV_remote_control_navigation) - Implementing TV remote control navigation (MDN).
